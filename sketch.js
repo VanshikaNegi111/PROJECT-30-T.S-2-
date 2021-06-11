@@ -76,6 +76,7 @@ function draw() {
   textSize(20);
   fill("lightyellow");
   text("Drag the hexagon to destroy the blocks",300,30);
+  text("Press SPACE to re-try" ,300,370);
   
 
   ground.display();
